@@ -1,5 +1,5 @@
-# issaquah-code-competition-website
-Website for the Issaquah Code Competition
+# issaquah-coding-contest-website
+Website for the Issaquah Coding Contest
 
 ## Uses: 
 - Bootstrap
